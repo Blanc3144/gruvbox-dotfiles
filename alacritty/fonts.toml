@@ -1,0 +1,9 @@
+[font]
+size = 11
+
+builtin_box_drawing = true
+
+normal = { family = "CaskaydiaCove NerdFont", style = "Regular" }
+bold = { family = "CaskaydiaCoveNerdFont", style = "Bold" }
+italic = { family = "CaskaydiaCoveNerdFont", style = "Italic" }
+bold_italic = { family = "CaskaydiaCoveNerdFont", style = "Bold Italic" }
